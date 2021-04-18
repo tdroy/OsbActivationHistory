@@ -12,3 +12,5 @@ Sample email sent by this utility.
 
 All configuration are store in 'config.properties'. SMTP properties are define once.
 Multiple OSB environment/domain can be configured by repeating wls setting for each domain. Utility connects to each domains and comiple data in one email. 
+
+The start and end date will decide range to collect data, if empty then collection will be made for one month. 
