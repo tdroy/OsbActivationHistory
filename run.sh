@@ -1,0 +1,1 @@
+java -cp OsbActivationHistroy.jar:oracle.servicebus.configfwk.jar:oracle.servicebus.kernel-api.jar:com.bea.core.management.jmx.jar:weblogic.jar:j-text-utils-0.3.3.jar:commons-configuration-1.9.jar:commons-logging-1.2.jar:commons-lang-2.6.jar:mail-1.4.7.jar:wlthint3client.jar:. com.troy.ActivationHistory
