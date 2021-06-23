@@ -2,6 +2,7 @@
 Oracle Service Bus get activation histroy using JMX and email the data.
 
 This project is to fetch Activation History from OSB using JMX and send data using java email. Copy actual wlthint3client.jar from <wl_home>/sever/lib.
+
 Execute 'run.cmd' or 'run.sh' as per environemnt. 
 
 Example of Osb Portal data.
